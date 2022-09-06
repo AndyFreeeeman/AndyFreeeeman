@@ -1,12 +1,8 @@
-### Hi there 👋
+### Language
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndyFreeeeman&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AndyFreeeeman&repo=ITRI_OpenCV&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AndyFreeeeman&repo=Reinforcement_Learning&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-
+### Pin Repository
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AndyFreeeeman&repo=ITRI_OpenCV&theme=gruvbox" />
