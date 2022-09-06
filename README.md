@@ -4,6 +4,14 @@
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AndyFreeeeman&repo=ITRI_OpenCV&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AndyFreeeeman&repo=Reinforcement_Learning&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+
 <!--
 **AndyFreeeeman/AndyFreeeeman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
