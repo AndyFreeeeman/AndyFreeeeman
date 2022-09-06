@@ -1,8 +1,12 @@
-### Language
+### 🌎 Language
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndyFreeeeman&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
-### Pin Repository
+### ✨ Starred Topics
+
+
+
+### 📌 Main Repository
 
 <a href="https://github.com/AndyFreeeeman/ITRI_OpenCV">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AndyFreeeeman&repo=ITRI_OpenCV&theme=gruvbox" />
