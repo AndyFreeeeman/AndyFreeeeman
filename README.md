@@ -13,6 +13,9 @@
 <a href="https://github.com/AndyFreeeeman/OpenCV_Image_Processing">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AndyFreeeeman&repo=OpenCV_Image_Processing&theme=gruvbox" />
 </a>
+<a href="https://github.com/AndyFreeeeman/C-mean_Clustering">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AndyFreeeeman&repo=C-mean_Clustering&theme=gruvbox" />
+</a>
 
 
 
