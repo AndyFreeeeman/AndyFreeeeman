@@ -4,7 +4,7 @@
 
 ### Pin Repository
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/AndyFreeeeman/ITRI_OpenCV">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AndyFreeeeman&repo=ITRI_OpenCV&theme=gruvbox" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
