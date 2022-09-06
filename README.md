@@ -7,10 +7,10 @@
 <a href="https://github.com/AndyFreeeeman/ITRI_OpenCV">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AndyFreeeeman&repo=ITRI_OpenCV&theme=gruvbox" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/AndyFreeeeman/Reinforcement_Learning">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AndyFreeeeman&repo=Reinforcement_Learning&theme=gruvbox" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/AndyFreeeeman/OpenCV_Image_Processing">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AndyFreeeeman&repo=OpenCV_Image_Processing&theme=gruvbox" />
 </a>
 
