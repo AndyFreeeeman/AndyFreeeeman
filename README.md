@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndyFreeeeman)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndyFreeeeman&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AndyFreeeeman&repo=ITRI_OpenCV)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AndyFreeeeman&repo=ITRI_OpenCV&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **AndyFreeeeman/AndyFreeeeman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
