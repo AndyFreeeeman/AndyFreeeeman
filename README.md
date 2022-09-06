@@ -14,10 +14,7 @@
 
 <div align="center" id="top">
   <h1>📌 Main Repository</h1>
-</div>
-
-
-
+  
 <a align="center" href="https://github.com/AndyFreeeeman/ITRI_OpenCV">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=AndyFreeeeman&repo=ITRI_OpenCV&theme=gruvbox" />
 </a>
@@ -31,5 +28,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AndyFreeeeman&repo=C-mean_Clustering&theme=gruvbox" />
 </a>
 
-
+</div>
 
