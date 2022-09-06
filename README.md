@@ -1,9 +1,12 @@
 
 <div align="center" id="top">
   <h1>🌎 Language</h1>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndyFreeeeman&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-  
+  <a align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndyFreeeeman&theme=merko" />
+  </a>
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndyFreeeeman&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 ### ✨ Starred Topics
 
