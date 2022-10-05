@@ -2,7 +2,7 @@
 <div align="center" id="top">
   <h1>🌎 Language 🌎</h1>
   <a align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndyFreeeeman&hide=jupyternotebook&theme=merko" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndyFreeeeman&hide=jupyter&theme=merko" />
   </a>
 </div>
 
